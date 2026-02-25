@@ -1,6 +1,6 @@
 # Freq-Math: Mathematical Equation Sonifier
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/your-repo/freq-math)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/esskslifetech/freq-math)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://python.org)
 [![C++](https://img.shields.io/badge/C%2B%2B-23-blue.svg)](https://isocpp.org)
