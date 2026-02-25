@@ -83,6 +83,11 @@ Freq-Math employs a clean, modular architecture with clear separation of concern
 - **Audio Engine**: Multi-mode synthesis with real-time processing capabilities
 - **Visualization**: Real-time plotting of mathematical functions and audio analysis
 
+
+## Demo
+
+https://www.youtube.com/watch?v=c4BeN0gmHeU
+
 ## 🚀 Quick Start
 
 ### 📋 Prerequisites
