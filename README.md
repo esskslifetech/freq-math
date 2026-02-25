@@ -86,7 +86,8 @@ Freq-Math employs a clean, modular architecture with clear separation of concern
 
 ## Demo
 
-https://www.youtube.com/watch?v=c4BeN0gmHeU
+[Watch Demo Here](https://www.youtube.com/watch?v=c4BeN0gmHeU)
+
 
 ## 🚀 Quick Start
 
