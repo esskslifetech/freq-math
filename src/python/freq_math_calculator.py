@@ -51,6 +51,10 @@ from typing import (
     runtime_checkable,
 )
 
+from src.python.dependency_bootstrap import ensure_dependencies
+
+ensure_dependencies((("numpy", "numpy"),))
+
 import numpy as np
 import numpy.typing as npt
 
