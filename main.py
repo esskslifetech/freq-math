@@ -36,6 +36,10 @@ import threading
 import time
 import wave
 from collections import deque
+
+from src.python.dependency_bootstrap import ensure_dependencies
+
+ensure_dependencies((("numpy", "numpy"), ("matplotlib", "matplotlib")))
 from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Any, Callable, Final, Protocol, Sequence, runtime_checkable
